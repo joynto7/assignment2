@@ -15,6 +15,11 @@
    background-color: #111111;
 }
 
+.bg-gray{
+    background-color:rgba(34, 34, 34, 1);
+    ;
+}
+
 .text-white {
     color: #FFFFFF;
 
@@ -29,7 +34,21 @@
    color: rgba(255, 255, 255, 0.5);
 }
 
+.red-button{
+    
+    border-radius: 20px;
+    padding: 12px 30px;
+    background-color: #E6533C;
 
+}
+
+.black-button{
+
+    background-color: #111111;
+    border-radius: 20px;
+    padding: 12px 30px;
+
+}
 
 
 
@@ -82,7 +101,7 @@
 .div-subcontainer{
  
      margin: 200px;
-    max-width: 520px; */
+    max-width: 520px; 
     height: 440px;
     width: 520px;
 }
@@ -114,6 +133,30 @@
     font-size: 38px;
 }
 
+                              /* Run extra mile easily */
+
+.run-extra{
+    margin: 160px;
+    border-radius: 15px;
+    /* max-width: 520px;  */
+    height: 320px;
+    /* width: 520px; */
+    padding: 15px 45px;
+    background-color:rgba(34, 34, 34, 1);; 
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    gap: 165px;
+}
+
+.img-run{
+    border-radius: 25px;
+    
+    
+
+}
+
+/*  */
 
 
 
