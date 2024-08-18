@@ -94,3 +94,31 @@
     padding-right: 200px;
    
 }
+
+                  /* change your Habits */
+
+
+.habits{
+
+  text-align: center;
+}                
+
+
+.habits-img{
+    /* display: grid; */
+   gap: 40px;
+   justify-content: center;
+}  
+
+.title-2{
+    font-size: 38px;
+}
+
+
+
+
+
+
+
+
+
